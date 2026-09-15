@@ -84,10 +84,10 @@ docker compose up --build
 ## Citation
 
 ```bibtex
-@software{dbci_tnbc2024,
+@software{dbci_tnbc2026,
   title  = {Deep Bayesian Causal Inference for TNBC pCR Prediction},
-  author = {Your Name},
-  year   = {2024},
+  author = {Patrick Tenga Shako},
+  year   = {2026},
   url    = {https://github.com/your-user/deep-bayesian-causal-tnbc}
 }
 ```
